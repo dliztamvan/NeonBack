@@ -1,17 +1,1 @@
-[
-  {
-    "token": "8479235084:AAHvDTG7K6HGQ9izZ1C1vBwNFoGF_9QNFu8",
-    "ip": "142.93.179.21",
-    "reason": "3x Wrong password — AUTO-BAN",
-    "time": "2025-11-04T13:58:42.039Z",
-    "geo": {
-      "country": "United States",
-      "region": "New Jersey",
-      "city": "Clifton",
-      "isp": "DigitalOcean, LLC",
-      "lat": 40.8364,
-      "lon": -74.1403,
-      "vpn": false
-    }
-  }
-]
+[]
